@@ -24,6 +24,8 @@ class MainActivity : AppCompatActivity() {
         print("Local change")
 
         print("Change 2")
+
+        print("First push")
     }
 
 }
