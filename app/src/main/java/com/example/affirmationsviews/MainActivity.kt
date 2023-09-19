@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
         print("second commit")
         print("Local change")
 
-        print("Experimental branch")
+        print("Change 1")
     }
 
 }
