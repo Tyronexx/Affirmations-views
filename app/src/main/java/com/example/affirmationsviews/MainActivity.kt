@@ -21,6 +21,8 @@ class MainActivity : AppCompatActivity() {
         recyclerView.setHasFixedSize(true)
 
         print("second commit")
+
+        jksdncjskdnkjmscn
     }
 
 }
